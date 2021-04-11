@@ -58,7 +58,8 @@ let fn = function () {
 
 //     (function () {
 //         console.log("I will be executed instantly");
-//     })();
+//     })(); --> this "()" is called IFFE - that means it calls the function immediately
+   
 // console.log("after");
 
 
