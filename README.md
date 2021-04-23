@@ -1,2 +1,2 @@
 # Javascript
-A complete noted of javacript theory
+A complete notes of javacript theory
